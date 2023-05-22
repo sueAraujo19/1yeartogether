@@ -1,0 +1,367 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    color: #242424;
+    font-family: sans-serif;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    background-color: black;
+}
+.principal{
+    width: 100%;
+    margin: 0 auto;
+
+}
+main{
+    display: block;
+
+}
+.container{
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+}
+h1,h2{
+    font-family: 'ABeeZee', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin-bottom: 40px;
+}
+
+h3{
+    font-family: 'ABeeZee', sans-serif;
+    text-align: center;
+    color: white;
+    margin-bottom: 40px;
+}
+p{
+    text-align: center;
+    font-family: 'ABeeZee', sans-serif;
+    color: white;
+    padding: 20px;
+}
+
+Section.parallax1{
+    background-image: url("img/8.jpeg");
+}
+
+Section.parallax2{
+    background-image: url("img/20.jpeg");
+}
+Section.parallax3{
+    background-image: url("img/18.jpeg");
+}
+Section.parallax5{
+    background-image: url("img/2.jpeg");
+}
+Section.parallax6{
+    background-image: url("img/7.jpeg");
+}
+Section.parallax8{
+    background-image: url("img/1.jpeg");
+}
+Section.parallax10{
+    background-image: url("img/5.jpeg");
+}
+section.parallax1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+section.parallax2{
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+section.parallax3{
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+section.parallax4{
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+section.parallax5{
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+section.parallax6{
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+section.parallax7{
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+section.parallax8{
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+section.parallax9{
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+section.parallax10{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+section.parallax11{
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+Section.parallax1:after{
+   content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    background: -moz-linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+}
+Section.parallax2:after{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    background: -moz-linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+}
+Section.parallax3:after{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    background: -moz-linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+}
+Section.parallax4:after{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    background: -moz-linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+}
+Section.parallax5:after{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    background: -moz-linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+}
+Section.parallax6:after{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    background: -moz-linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+}
+Section.parallax8:after{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    background: -moz-linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+}
+Section.parallax10:after{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    background: -moz-linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0, rgba(0,0,0,0)40%,#000 100%);
+}
+
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.cards {
+
+    position: relative;
+    width: 300px;
+    height: 400px;
+    transform-style: preserve-3d;
+}
+.cards .face {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    backface-visibility: hidden;
+    transition: 2s ease-in-out;
+}
+.cards:hover .face.front{
+    transform: perspective(500px)rotateY(0deg);
+}
+
+.cards .face.front{
+    background: #008080;
+}
+.cards:hover .face.front{
+    transform: perspective(500px)rotateY(180deg);
+}
+.cards .face.back{
+    background: #20B2AA;
+    transform: perspective(500px)rotateY(180deg);
+}
+.cards:hover .face.back{
+    transform: perspective(500px)rotateY(360deg);
+}
+.cards.face h1{
+    font-size: 4em;
+    transform: perspective(500px) translateZ(50px);
+}
+.cards.face p{
+    font-size: 18px;
+    transform: perspective(500px) translateZ(50px);
+}
